@@ -11,11 +11,7 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-<<<<<<< HEAD:laravel_theme/resources/views/layouts/header.blade.php
           <li><a href="/">Home</a></li>
-=======
-          <li><a href="#hero">Home</a></li>
->>>>>>> 8eb9a7a210ad34cf802d296832338c8634a2c306:resources/views/layouts/header.blade.php
           <li class="dropdown"><a href="{{ url('about') }}" class="active"><span>About</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="team.html">Team</a></li>
